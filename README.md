@@ -22,3 +22,9 @@ Data Correction with Temperature Sensor
 
 
 	Where, t_corr = Corrected temperature, t is the average of temperature computed from humidity and temperature computed from pressure and t_cpu is the CPU temperature. Though the temperature readings are better but not completely accurate.
+	
+	
+Steps to run:
+	- Run CreateData.py
+	- 
+Note: Intro.py is optional, we just added it for cool effects in the SenseHat LED. 

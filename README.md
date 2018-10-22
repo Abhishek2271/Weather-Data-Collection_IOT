@@ -25,6 +25,8 @@ Data Correction with Temperature Sensor
 	
 	
 Steps to run:
-	- Run CreateData.py
-	- 
-Note: Intro.py is optional, we just added it for cool effects in the SenseHat LED. 
+
+	Run CreateData.py
+	
+Note: 
+	Intro.py is optional, we just added it for cool effects in the SenseHat LED. 
